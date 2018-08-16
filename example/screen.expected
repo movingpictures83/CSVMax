@@ -1,0 +1,34 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   M          MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+*    (C) 2016 Bioinformatics Research Group, Florida International University     *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*    T. Cickovski, V. Aguiar-Pulido, W. Huang, S. Mahmoud and G. Narasimhan.      *
+*         Lightweight Microbiome Analysis Pipelines.  In Proceedings of           *
+* 4th International Work-Conference on Bioinformatics and Biomedical Engineering  *
+*                   (IWBBIO16), Granada, Spain, April 2016.                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: CSVMax
+I:  0  MAX:  634.0
+I:  1  MAX:  352.0
+I:  2  MAX:  3077.0
+I:  3  MAX:  831.0
+I:  4  MAX:  278.0
+I:  5  MAX:  902.0
+I:  6  MAX:  576.0
+I:  7  MAX:  547.0
+I:  8  MAX:  610.0

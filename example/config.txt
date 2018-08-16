@@ -1,0 +1,2 @@
+Prefix plugins/CSVMax/example/
+Plugin CSVMax inputfile abund.csv outputfile none
