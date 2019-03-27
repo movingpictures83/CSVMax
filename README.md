@@ -2,7 +2,7 @@
 # Language: Python
 # Input: CSV (samples)
 # Output: screen
-# Tested with: PluMA 1.0, Python 2.7
+# Tested with: PluMA 1.0, Python 3.6
 
 A PluMA plugin that accepts as input a CSV file of data, where
 rows contain samples and columns represent counts within
