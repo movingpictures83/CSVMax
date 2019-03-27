@@ -18,7 +18,7 @@ class CSVMaxPlugin:
       self.m = 0
       for line in filestuff:
          contents = line.split(',')
-	 self.ADJ.append([])
+         self.ADJ.append([])
          for j in range(self.n):
             value = float(contents[j+1])
             self.ADJ[self.m].append(value)
@@ -30,7 +30,7 @@ class CSVMaxPlugin:
          for j in range(self.n):
             if (self.ADJ[i][j] > max):
                max = self.ADJ[i][j]
-         print "I: ", i, " MAX: ", max   
+         print ("I:  "+str(i)+"  MAX:  "+str(max))   
 
 
 
